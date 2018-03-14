@@ -1,0 +1,3 @@
+C:/Users/codej/CLionProjects/FlappyButt/cmake-build-debug/CMakeFiles/FlappyButt.dir
+C:/Users/codej/CLionProjects/FlappyButt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/codej/CLionProjects/FlappyButt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
